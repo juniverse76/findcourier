@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">택배기사조회</string>
+    <string name="invoice_number">송장 번호</string>
+    <string name="address">주소</string>
+    <string name="add">추가</string>
+    <string name="courier_name">배송기사 이름</string>
+    <string name="name_added">이름 추가 완료</string>
+    <string name="cancel">취소</string>
+    <string name="cancel_complete">취소됨</string>
+</resources>
